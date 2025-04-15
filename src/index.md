@@ -4,7 +4,7 @@ title: Open Story Podcast
 ---
 
 <div class="hero">
-    <img src="/openstorylogo.png" alt="Open Story Podcast Logo" style="width: 150px; margin-bottom: 2rem;">
+    <img src="{{ '/openstorylogo.png' | url }}" alt="Open Story Podcast Logo" style="width: 150px; margin-bottom: 2rem;">
     <h1>Open Story Podcast</h1>
     <p>Conversations with builders, leaders, academics and visionaries shaping the future of technology</p>
 </div>
